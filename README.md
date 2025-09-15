@@ -1,5 +1,2 @@
-# include<stdio.h>
-int main()
-{printf("hello world!");
-return 0;
-}
+apnacode-demo
+this is my first git repository
